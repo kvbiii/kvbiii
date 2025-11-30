@@ -22,10 +22,10 @@
 
 ### 💬 Ask me about
 
-* Machine Learning & Data Science concepts<br>* MLOps, CI/CD for ML, and model deployment
-* Tools like Docker, Python, MLflow, Airflow, and cloud platforms
+* Machine Learning & Data Science concepts
+* MLOps, CI/CD for ML, and model deployment
+* Tools like Docker, Python, MLflow and cloud platforms
 * Football statistics, Premier League trends, and **Arsenal**
-* Working as a Data Scientist & MLOps Engineer in a large organization
 
 ---
 
