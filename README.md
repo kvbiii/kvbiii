@@ -1,5 +1,31 @@
-# 💫 About Me:
-### 🔭 I’m currently working on<br><br>* Building and maintaining ML pipelines and model deployment workflows at **PZU**<br>* Experimenting with machine learning techniques for real-world business applications<br>* Improving automation, monitoring, and CI/CD for ML systems<br>---<br><br>### 🤝 I’m looking for help with<br><br>* Scaling ML models in production more efficiently<br>* Best practices in monitoring, observability, and ML system reliability<br><br>### 🌱 I’m currently learning<br><br>* Advanced MLOps practices<br>* Cloud-native ML tools (Kubernetes, Kubeflow, MLflow, Airflow, etc.)<br>* Modern Python tooling (Pydantic, FastAPI, Poetry, etc.)<br><br>### 💬 Ask me about<br><br>* Machine Learning & Data Science concepts<br>* MLOps, CI/CD for ML, and model deployment<br>* Tools like Docker, Python, MLflow, Airflow, and cloud platforms<br>* Football statistics, Premier League trends, and **Arsenal**<br>* Working as a Data Scientist & MLOps Engineer in a large organization<br>
+### 🔭 I’m currently working on
+
+* Building and maintaining ML pipelines and model deployment workflows at **PZU**
+* Experimenting with machine learning techniques for real-world business applications
+* Improving automation, monitoring, and CI/CD for ML systems
+
+---
+
+### 🤝 I’m looking for help with
+
+* Scaling ML models in production more efficiently
+* Best practices in monitoring, observability, and ML system reliability
+
+---
+
+### 🌱 I’m currently learning
+
+* Advanced MLOps practices<br>* Cloud-native ML tools (Kubernetes, Kubeflow, MLflow, Airflow, etc.)
+* Modern Python tooling (Pydantic, FastAPI, Poetry, etc.)
+
+---
+
+### 💬 Ask me about
+
+* Machine Learning & Data Science concepts<br>* MLOps, CI/CD for ML, and model deployment
+* Tools like Docker, Python, MLflow, Airflow, and cloud platforms
+* Football statistics, Premier League trends, and **Arsenal**
+* Working as a Data Scientist & MLOps Engineer in a large organization
 
 
 ## 🌐 Socials:
