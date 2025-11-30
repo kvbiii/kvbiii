@@ -1,31 +1,37 @@
-### 🔭 I’m currently working on
+## 🔭 I’m currently working on
 
-* Building and maintaining ML pipelines and model deployment workflows at **PZU**
-* Experimenting with machine learning techniques for real-world business applications
-* Improving automation, monitoring, and CI/CD for ML systems
-
----
-
-### 🤝 I’m looking for help with
-
-* Scaling ML models in production more efficiently
-* Best practices in monitoring, observability, and ML system reliability
+* 🚀 Building and maintaining ML pipelines and deployment workflows at **PZU**
+* 🤖 Experimenting with machine learning techniques for real-world applications
+* 🛠️ Improving automation, monitoring, and CI/CD for ML systems
+* 📊 Exploring data-driven insights in business and sports analytics
 
 ---
 
-### 🌱 I’m currently learning
+## 🤝 I’m looking for help with
 
-* Advanced MLOps practices<br>* Cloud-native ML tools (Kubernetes, Kubeflow, MLflow, Airflow, etc.)
-* Modern Python tooling (Pydantic, FastAPI, Poetry, etc.)
+* 📈 Scaling ML models more efficiently in production environments
+* 🧩 Enhancing monitoring, observability, and ML system reliability
+* 🧱 Implementing best practices for MLOps architecture and workflow design
+* 🛡️ Strengthening model governance, reproducibility, and traceability
 
 ---
 
-### 💬 Ask me about
+## 🌱 I’m currently learning
 
-* Machine Learning & Data Science concepts
-* MLOps, CI/CD for ML, and model deployment
-* Tools like Docker, Python, MLflow and cloud platforms
-* Football statistics, Premier League trends, and **Arsenal**
+* 🧪 Advanced MLOps practices and production-ready workflows
+* ☁️ Cloud-native ML tools (Kubernetes, Kubeflow, MLflow, Airflow, etc.)
+* 🐍 Modern Python tooling (Pydantic, FastAPI, Poetry, etc.)
+* 📚 Best practices for experiment tracking, model registries, and feature stores
+
+---
+
+## 💬 Ask me about
+
+* 🤖 Machine Learning & Data Science concepts
+* 🔧 MLOps, CI/CD for ML, and model deployment strategies
+* 🧰 Tools like Docker, Python, MLflow, Airflow, and cloud platforms
+* ⚽ Football analytics, Premier League trends, and **Arsenal**
+
 
 ---
 
