@@ -27,6 +27,7 @@
 * Football statistics, Premier League trends, and **Arsenal**
 * Working as a Data Scientist & MLOps Engineer in a large organization
 
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jakub-ko%C5%9Bcian-b74413204/) 
