@@ -3,25 +3,9 @@
 * 🚀 Building and maintaining ML pipelines and deployment workflows at **PZU**
 * 🤖 Experimenting with machine learning techniques for real-world applications
 * 🛠️ Improving automation, monitoring, and CI/CD for ML systems
-* 📊 Exploring data-driven insights in business and sports analytics
-
----
-
-## 🤝 I’m looking for help with
-
-* 📈 Scaling ML models more efficiently in production environments
-* 🧩 Enhancing monitoring, observability, and ML system reliability
-* 🧱 Implementing best practices for MLOps architecture and workflow design
-* 🛡️ Strengthening model governance, reproducibility, and traceability
-
----
-
-## 🌱 I’m currently learning
-
-* 🧪 Advanced MLOps practices and production-ready workflows
-* ☁️ Cloud-native ML tools (Kubernetes, Kubeflow, MLflow, Airflow, etc.)
 * 🐍 Modern Python tooling (Pydantic, FastAPI, Poetry, etc.)
-* 📚 Best practices for experiment tracking, model registries, and feature stores
+* ☁️ Cloud-native ML tools (Kubernetes, Kubeflow, MLflow, Airflow, etc.)
+* 📊 Exploring data-driven insights in business and sports analytics
 
 ---
 
@@ -52,28 +36,34 @@
 </p>
 
 ---
-
-# 📊 GitHub Stats:
+# 📊 GitHub Analytics
 
 <div align="center">
-  
-## 📈 Activity & Stats
-![](https://github-readme-stats.vercel.app/api?username=kvbiii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FF6B6B&icon_color=4ECDC4&text_color=C9D1D9&bg_color=0D1117)
-![](https://github-readme-streak-stats.herokuapp.com/?user=kvbiii&theme=dark&hide_border=false&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&dates=4ECDC4)
 
-## 💻 Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kvbiii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&title_color=FF6B6B&text_color=C9D1D9&bg_color=0D1117&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kvbiii&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=2&column=3)
+<table>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=kvbiii&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=4ECDC4&line=FF6B6B&point=FFE66D&color=C9D1D9" alt="Activity Graph" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=kvbiii&theme=dark&hide_border=false" alt="GitHub Streak" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kvbiii&theme=dark" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
 
-## 🎯 Contribution Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=kvbiii&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=4ECDC4&line=FF6B6B&point=FFE66D&color=C9D1D9)
+### 🏆 Profile Summary
 
-## 📊 Contribution Stats
-![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kvbiii&theme=dark&show_icons=true&include_all_commits=true&count_private=true)
-  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kvbiii&theme=react" alt="Profile Summary" width="100%" />
+
 </div>
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kvbiii&icon=0&color=0)](https://visitcount.itsvg.in)
