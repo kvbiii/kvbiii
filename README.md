@@ -36,6 +36,7 @@
 
 # 💻 Tech Stack:
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MLflow-0172B2?style=for-the-badge&logo=mlflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -53,14 +54,26 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kvbiii&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kvbiii&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kvbiii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+<div align="center">
+  
+## 📈 Activity & Stats
+![](https://github-readme-stats.vercel.app/api?username=kvbiii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FF6B6B&icon_color=4ECDC4&text_color=C9D1D9&bg_color=0D1117)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kvbiii&theme=dark&hide_border=false&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&dates=4ECDC4)
+
+## 💻 Most Used Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kvbiii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&title_color=FF6B6B&text_color=C9D1D9&bg_color=0D1117&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kvbiii&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=kvbiii&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=2&column=3)
+
+## 🎯 Contribution Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=kvbiii&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=4ECDC4&line=FF6B6B&point=FFE66D&color=C9D1D9)
+
+## 📊 Contribution Stats
+![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kvbiii&theme=dark&show_icons=true&include_all_commits=true&count_private=true)
+  
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kvbiii&icon=0&color=0)](https://visitcount.itsvg.in)
