@@ -44,7 +44,7 @@
 <table>
   <tr>
     <td colspan="2">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=kvbiii&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=4ECDC4&line=FF6B6B&point=FFE66D&color=C9D1D9" alt="Activity Graph" width="100%" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=kvbiii&theme=dark&bg_color=0D1117&hide_border=true&area=true&area_color=4ECDC4&line=FF6B6B&point=FFE66D&color=C9D1D9" alt="Activity Graph" width="100%" />
     </td>
   </tr>
   <tr>
@@ -59,7 +59,7 @@
 
 ### 🏆 Profile Summary
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kvbiii&theme=react" alt="Profile Summary" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kvbiii&theme=dark" alt="Profile Summary" width="100%" />
 
 </div>
 
