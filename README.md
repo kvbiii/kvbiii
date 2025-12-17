@@ -1,4 +1,3 @@
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kvbiii&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&border_color=ff0000)](https://github.com/kvbiii/github-readme-activity-graph)
 ## 🔭 I’m currently working on
 
 * 🚀 Building and maintaining ML pipelines and deployment workflows at **PZU**
@@ -43,15 +42,15 @@
 <table>
   <tr>
     <td colspan="2">
-      [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&border_color=ff0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=kvbiii&theme=dark&bg_color=0D1117&hide_border=true&area=true&area_color=4ECDC4&line=FF6B6B&point=FFE66D&color=C9D1D9" alt="Activity Graph" width="100%" />
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://streak-stats.demolab.com?user=kvbiii&theme=dark&hide_border=false&background=0D1117&ring=FF6B6B&fire=FFE66D&currStreakLabel=4ECDC4" alt="GitHub Streak" width="100%" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=kvbiii&theme=dark&hide_border=false" alt="GitHub Streak" width="100%" />
     </td>
     <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kvbiii&theme=github_dark" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvbiii&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
