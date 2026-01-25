@@ -47,7 +47,7 @@
   </tr>
   <tr>
     <td width="50%">
-        <img src="https://streak-stats.demolab.com/?user=kvbiii" alt="GitHub Streak" width="100%" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=kvbiii&theme=dark&hide_border=false" alt="GitHub Streak" width="100%" />
     </td>
     <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvbiii&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="100%" />
@@ -58,8 +58,6 @@
 ### 🏆 Profile Summary
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kvbiii&theme=github_dark" alt="Profile Summary" width="100%" />
 </div>
-
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kvbiii&icon=0&color=0)](https://visitcount.itsvg.in)
